@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_GITHUB_BANNER_URL" alt="Sary Ghazy Banner"/>
+  <img src="sary_ghazy_linkedin_banner_v6.png" alt="Sary Ghazy Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Sary Ghazy 👋</h1>
