@@ -96,7 +96,7 @@ Reusable architecture template for .NET projects.
 
 ## 🤝 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/saryghazy
+- LinkedIn: [https://linkedin.com/in/saryghazy](https://www.linkedin.com/in/sary-ghazy-483027343/)
 - Email: saryghazy81@gmail.com
 
 ---
